@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "version": "0.0.1",
+    "name": "Onix Editor",
+    "description": "A text editor to improve your typing",
+    "author": "Aenã Eloi Martinelli",
+    "action": {
+        "default_title": "Onix Editor",
+        "default_popup": "index.html"
+    }
+}
